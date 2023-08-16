@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @xkoolx
-- 👀 I’m interested in space
-- 🌱 I’m currently learning Python, Cadence, and IoT
+- 👀 I’m interested in space and the vastness of the universe.
+- 🌱 I’m currently learning Python, Cadence, and Web Security.
 - 💞️ I’m looking to collaborate on IoT crypto projects / Music related crypto projects 
 - 📫 How to reach me xkoolx.eth@proton.me
 
