@@ -1,6 +1,6 @@
 IT Support Specialist | Audio Engineer | Technical Problem Solver
 
-Recently relocated to Santa Cruz, CA. Building toward Core Audio Systems Engineering at Apple while currently seeking remote help desk/IT support roles.
+Recently relocated to Santa Cruz, CA. Building toward Core Audio Systems Engineering while currently seeking remote help desk/IT support roles.
 
 🎯 Current Focus
 
@@ -12,9 +12,9 @@ Recently relocated to Santa Cruz, CA. Building toward Core Audio Systems Enginee
 
 🔗 Quick Links
 
-📂 [View My Portfolio] - Resume, certifications, experience
+📂 [View My Portfolio]() - Resume, certifications, experience
 
-💼 [LinkedIn Profile]
+💼 [LinkedIn Profile]()
 
 📧 Email: xkoolx.eth@proton.me
 
