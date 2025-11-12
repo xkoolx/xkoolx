@@ -1,3 +1,5 @@
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xkoolx&show_icons=true&theme=dark)
+
 IT Support Specialist | Audio Engineer | Technical Problem Solver
 
 Recently relocated to Santa Cruz, CA. Building toward Core Audio Systems Engineering while currently seeking remote help desk/IT support roles.
