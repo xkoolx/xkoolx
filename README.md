@@ -1,16 +1,42 @@
-## Hi there 👋
+IT Support Specialist | Audio Engineer | Technical Problem Solver
 
-<!--
-**xkoolx/xkoolx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Recently relocated to Santa Cruz, CA. Building toward Core Audio Systems Engineering at Apple while currently seeking remote help desk/IT support roles.
 
-Here are some ideas to get you started:
+🎯 Current Focus
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔊 Learning Core Audio framework & AudioDriverKit
+🐍 Python for audio automation & signal processing
+🤖 AI systems engineering (ChatGPT, Claude, LangChain, Grok)
+🎓 Recent certs: Cloud Computing, Google AI, Cybersecurity
+
+
+🔗 Quick Links
+
+📂 [View My Portfolio] - Resume, certifications, experience
+💼 [LinkedIn Profile]
+📧 Email: xkoolx.eth@proton.me
+
+
+🛠️ Tech Stack
+
+IT & Infrastructure: Windows • Mac OS • Remote Support • Networking • Cloud Computing
+
+Audio: Pro Tools (Certified) • Logic X • Ableton • Live Sound
+
+Development: Python • AI Tools (Claude, ChatGPT, LangChain) • Git
+
+📊 Quick Stats
+
+🎵 Pro Tools Certified (Avid)
+🎓 AS in Recording Arts, Cum Laude (GPA 3.61)
+💻 10+ years technical troubleshooting
+🌐 Remote work expert (10+ years)
+
+
+📫 Let's Connect
+
+Looking for remote help desk/IT support opportunities and always happy to connect with audio engineers and developers!
+
+Santa Cruz, CA | Open to remote work & relocation
+
+Portfolio last updated: November 2025
