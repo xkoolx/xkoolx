@@ -13,7 +13,9 @@ Recently relocated to Santa Cruz, CA. Building toward Core Audio Systems Enginee
 🔗 Quick Links
 
 📂 [View My Portfolio] - Resume, certifications, experience
+
 💼 [LinkedIn Profile]
+
 📧 Email: xkoolx.eth@proton.me
 
 
