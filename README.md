@@ -5,8 +5,11 @@ Recently relocated to Santa Cruz, CA. Building toward Core Audio Systems Enginee
 🎯 Current Focus
 
 🔊 Learning Core Audio framework & AudioDriverKit
+
 🐍 Python for audio automation & signal processing
-🤖 AI systems engineering (ChatGPT, Claude, LangChain, Grok)
+
+🤖 AI systems engineering (ChatGPT, Claude, LangChain, Grok, Ollama)
+
 🎓 Recent certs: Cloud Computing, Google AI, Cybersecurity
 
 
