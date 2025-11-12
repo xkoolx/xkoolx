@@ -39,7 +39,6 @@ Development: Python • AI Tools (Claude, ChatGPT, LangChain) • Git
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xkoolx&layout=compact&theme=dark)
 
 
-
 📫 Let's Connect
 
 Looking for remote help desk/IT support opportunities and always happy to connect with audio engineers and developers!
