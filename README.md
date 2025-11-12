@@ -1,7 +1,3 @@
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xkoolx&show_icons=true&theme=dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xkoolx&layout=compact&theme=dark)
-
 IT Support Specialist | Audio Engineer | Technical Problem Solver
 
 Recently relocated to Santa Cruz, CA. Building toward Core Audio Systems Engineering while currently seeking remote help desk/IT support roles.
@@ -37,6 +33,11 @@ Development: Python • AI Tools (Claude, ChatGPT, LangChain) • Git
 🎓 AS in Recording Arts, Cum Laude (GPA 3.61)
 💻 10+ years technical troubleshooting
 🌐 Remote work expert (10+ years)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xkoolx&show_icons=true&theme=dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xkoolx&layout=compact&theme=dark)
+
 
 
 📫 Let's Connect
