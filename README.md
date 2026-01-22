@@ -1,7 +1,5 @@
 IT Support Specialist | Audio Engineer | Technical Problem Solver
 
-Recently relocated to Santa Cruz, CA. Building toward Core Audio Systems Engineering while currently seeking remote help desk/IT support roles.
-
 🎯 Current Focus
 
 🔊 Learning Core Audio framework & AudioDriverKit
@@ -48,4 +46,4 @@ Looking for remote help desk/IT support opportunities and always happy to connec
 
 Santa Cruz, CA | Open to remote work & relocation
 
-Portfolio last updated: November 2025
+Portfolio last updated: January 2026
